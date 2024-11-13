@@ -1,0 +1,34 @@
+/* Set the body font to Georgia and add a background image */
+body {
+  font-family: Georgia;
+  /* Set background image for the body */
+  background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+/* Style for the header section */
+.header {
+  /* Set background color of the header */
+  background-color: cornflowerblue;
+  /* Center-align text inside the header */
+  text-align: center;
+}
+
+/* Style for the about-me paragraph */
+.about-me {
+  /* Set font size to 20px */
+  font-size: 20px;
+  /* Apply 50% opacity to make the text semi-transparent */
+  opacity: 0.5;
+}
+
+/* Style for the titles (like project sections) */
+.titles {
+  /* Make the titles bold */
+  font-weight: bold;
+}
+
+/* Style for the main heading (h1) */
+h1 {
+  /* Set text color to azure */
+  color: azure;
+}
